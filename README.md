@@ -2,7 +2,7 @@
 A business consortium, collaborative ecosystem, community resource, and more.
 
 About OnlyJah
-- 🔭 currently working on [ark](jahnoah.com/ark), a cloud-faring vessel of prosperity
+- 🔭 currently working on [ark](https://jahnoah.com/ark), a cloud-faring vessel of prosperity
 - 🌱 currently learning business and software development
 - 👯 looking to collaborate on an organic, living foods store
 - 🤔 looking for help with product distribution
