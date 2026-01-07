@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi there, we are OnlyJah 👋
+A business consortium, collaborative ecosystem, community resource, and more.
 
-<!--
-**onlyjah/onlyjah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About OnlyJah
+- 🔭 currently working on [ark](jahnoah.com/ark), a cloud-faring vessel of prosperity
+- 🌱 currently learning business and software development
+- 👯 looking to collaborate on an organic, living foods store
+- 🤔 looking for help with product distribution
+- 💬 Ask me about the New---Golden Earth project
+- 📫 How to reach me: onlyjah@pm.me
+- 😄 Pronouns: we/us
+- ⚡ Fun fact: The mitochondria and cell were once two different organisms; one day, they merged. How cool!
